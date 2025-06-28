@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "healing_pools:block/healing_block"
+    }
+  }
+}

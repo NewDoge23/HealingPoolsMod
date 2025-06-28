@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values":
+          [
+            "healing_pools:healing_water",
+            "healing_pools:flowing_healing_water"
+          ]
+}

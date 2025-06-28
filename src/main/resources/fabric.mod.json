@@ -5,7 +5,7 @@
 	"name": "Healing Pools",
 	"description": "Welcome to Healing Pools! Discover underground pools of healing water!",
 	"authors": [
-		"NewDoge"
+		"NewDoge23"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.newdoge.HealingPools"
+			"com.newdoge.healingpools.HealingPools"
 		],
 		"client": [
 			"com.newdoge.HealingPoolsClient"

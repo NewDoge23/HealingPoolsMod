@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "com.newdoge.mixin.client",
+	"package": "com.newdoge.healingpools.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
 		"ExampleClientMixin"

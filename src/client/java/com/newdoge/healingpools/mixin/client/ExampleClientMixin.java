@@ -1,4 +1,4 @@
-package com.newdoge.mixin.client;
+package com.newdoge.healingpools.mixin.client;
 
 import net.minecraft.client.MinecraftClient;
 import org.spongepowered.asm.mixin.Mixin;
